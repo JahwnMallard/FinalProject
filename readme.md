@@ -56,3 +56,9 @@ Implementation
 * The schematic of the adc is below
 
 ![schematic](schematic.jpg)
+
+* A video of it operating is posted below
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=LdPD-mCjqf8
+" target="_blank"><img src="http://img.youtube.com/vi/LdPD-mCjqf8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
